@@ -1,4 +1,4 @@
-const sequelize = require('sequelise')
+const sequelize = require('sequelize')
 const config = require('config')
 
 const instancia = new sequelize(
